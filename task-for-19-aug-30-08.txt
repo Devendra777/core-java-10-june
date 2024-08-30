@@ -1,0 +1,39 @@
+   MusicInstrumentShop
+  
+       musicalInstruments[15]
+	 
+   ElectronicGadget
+
+       gadgetNames[15]
+   
+   ChaiPoint
+   
+       chaiNames[10]
+	   
+    Dominos
+	   
+	   pizzas[14]
+		   
+	SportsShop
+		   
+	  sportsItems[15]
+	
+	Dmart
+	
+	    --- 20  ----
+	   groceries
+	   vegatables
+	   clothBrands
+	   toyNames
+	   fruits[]
+	   homeAppliances
+	   perfumes
+	   soaps
+	   alcohols[]
+	   biscuits[]
+	   dairyProducts
+	
+	    
+	   
+	   
+	   
